@@ -1,0 +1,6 @@
+*.json
+node_modules/
+*.log
+.DS_Store
+.env
+!metadata/token.json

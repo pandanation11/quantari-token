@@ -1,0 +1,11 @@
+2025-06-16 04:44:23 - [1;34mStarting Solana Token Launch Script[0m
+2025-06-16 04:44:23 - [0;32m✅ solana found.[0m
+2025-06-16 04:44:23 - [0;32m✅ spl-token found.[0m
+2025-06-16 04:44:23 - [0;32m✔ Solana set to devnet.[0m
+2025-06-16 04:44:23 - [0;32m✅ Wallet keypair found.[0m
+2025-06-16 04:44:26 - [0;31m⚠ Airdrop failed (may be rate limited).[0m
+2025-06-16 04:44:29 - [0;32m🎉 Token created: 6djLsDWhcH8UkE87pB6ZrvYVEBGuNU7imHq7n3nD547N[0m
+2025-06-16 04:44:37 - [0;32m📦 Token account created: 6mUe9wYUexBT44dMp15Y1GFmqU6pmuoE2AJ9V4gZCenQ[0m
+2025-06-16 04:44:39 - [0;32m💰 Minted 1,000,000 tokens to 6mUe9wYUexBT44dMp15Y1GFmqU6pmuoE2AJ9V4gZCenQ[0m
+2025-06-16 04:44:39 - [1;34mToken launch steps complete. Next step: Multisig setup.[0m
+2025-06-16 04:44:39 - [1;33mRun: spl-token authorize $TOKEN_ADDRESS mint <MULTISIG_ADDRESS>[0m

@@ -1,0 +1,9 @@
+{
+  "name": "Quantari",
+  "symbol": "QNTR",
+  "uri": "https://raw.githubusercontent.com/pandanation11/quantari-token/main/assets/logo.json",
+  "seller_fee_basis_points": 0,
+  "creators": [],
+  "collection": null,
+  "uses": null
+}

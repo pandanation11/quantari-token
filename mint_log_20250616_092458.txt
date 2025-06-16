@@ -1,0 +1,16 @@
+🔄 Starting token minting...
+Mint: 9bQ4dhCpUm7vsBGt5JC7vhK25hqSa9Dp4TTas7fhuqvt
+Keypair: /Users/musicsudio/.config/solana/id.json
+Chunks: 100 of 1000000000000 (1M each)
+Log started: Mon Jun 16 09:24:58 EDT 2025
+--------------------------------------------
+[09:24:58] Minting batch 1... ❌ FAILED
+error: Found argument '--keypair' which wasn't expected, or isn't valid in this context
+
+	If you tried to supply `--keypair` as a value rather than a flag, use `-- --keypair`
+
+USAGE:
+    spl-token mint <TOKEN_MINT_ADDRESS> <TOKEN_AMOUNT>
+
+For more information try --help
+Aborting at batch 1
