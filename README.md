@@ -16,16 +16,15 @@ This repository contains all deployment scripts, logs, metadata, and branding as
 
 ---
 
-## 🎨 Brand Assets
+## 🔖 Quantari Brand Assets
 
-| Asset Type     | Preview                                   | Download Link                         |
-|----------------|-------------------------------------------|----------------------------------------|
-| Logo (Light)   | ![Light](assets/logo.png)                 | [Download](assets/logo.png)           |
-| Logo (Dark)    | ![Dark](assets/logo_dark.png)             | [Download](assets/logo_dark.png)      |
-| Square Icon    | ![Square](assets/logo_square.png)         | [Download](assets/logo_square.png)    |
-| Favicon        | 🧠                                        | [favicon.ico](assets/favicon.ico)     |
-| SVG Vector     | 📐                                        | [quantari.svg](assets/quantari.svg)   |
-| Social Preview | ![OG](assets/opengraph_banner.png)        | [Download](assets/opengraph_banner.png) |
+| Type            | Preview                                   | Link                                               |
+|-----------------|--------------------------------------------|----------------------------------------------------|
+| Logo (Light)    | ![Light](marketing/logo_light.png)         | [Download](marketing/logo_light.png)               |
+| Logo (Dark)     | ![Dark](marketing/logo_dark.png)           | [Download](marketing/logo_dark.png)                |
+| Favicon         | ![Favicon](marketing/favicon_32x32.png)    | [Download](marketing/favicon_32x32.png)            |
+| SVG             | 📐                                          | [quantari.svg](assets/quantari.svg)                |
+| Square Icon     | ![Square](assets/logo_square.png)          | [Download](assets/logo_square.png)                 |
 
 ---
 
