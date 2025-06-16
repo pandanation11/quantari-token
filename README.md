@@ -1,69 +1,63 @@
-# 🧬 Quantari (QNTR)
+# 🧠 Quantari Token
 
-Quantari (QNTR) is a decentralized Solana-based token built for transparency, community governance, and zero-team control. It features a fair launch with no insider allocation, and its final state will be locked by revoking mint authority once the community-driven liquidity pool is established.
+Quantari is a fair-launch SPL token deployed on the Solana blockchain with **no presale, no VC funding, and no dev tax**. Every token was minted transparently and lives entirely in the hands of the public.
 
-## 🔹 Token Details
-
-- **Token Name:** Quantari
-- **Symbol:** QNTR
-- **Decimals:** 9
-- **Mint Address:** [`9bQ4dhCpUm7vsBGt5JC7vhK25hqSa9Dp4TTas7fhuqvt`](https://solscan.io/token/9bQ4dhCpUm7vsBGt5JC7vhK25hqSa9Dp4TTas7fhuqvt)
-- **Total Supply:** 100,000,000 QNTR
-- **Deployer Mint Authority:** `89dJdU4RXxJe2vTpDvwEYyYN1K831uVVDBYBB5UZ8Y7E`
-- **Multisig (unused):** `88QejiCvjYF4D5pM6qJeZ9zf9eE7SsV3Sfp9BCiKYQpw`
-
-Mint authority will be **revoked** after liquidity and airdrop phases are complete.
-
-## 🧪 Launch Philosophy
-
-- ✅ **No presale**
-- ✅ **No VC or team allocation**
-- ✅ **100% community supply**
-- ✅ **LP funded via community burn auction**
-- ✅ **Mint authority revoked for trustless finality**
-
-## 📦 Project Structure
-
-- `/scripts`: Automation tools for minting, LP creation, airdrop distribution, and authority handling
-- `/marketing`: Logos (light/dark/SVG), favicon, banners
-- `/contracts`: On-chain programs for LP and airdrop (coming soon)
-
-## 🪙 Liquidity Pool Design (Planned)
-
-The **FairLP Burn Auction** model:
-- Community sends SOL to a transparent burn address
-- LP tokens are seeded proportionally into a pool
-- No centralized fund custody; deployer has zero access to pooled funds
-- Ownership of LP tokens can be burned or locked
-
-## 🎁 Airdrop System (Planned)
-
-- Custom contract to reward early supporters and burn participants
-- Deterministic allocation based on wallet interactions
-- Transparent and on-chain verifiable
-
-## 🧰 Automation Scripts
-
-- `mint_all.sh`: Mints total supply
-- `set_authority.sh`: Transfers or revokes mint/burn authorities
-- `airdrop_distribute.sh`: Sends tokens to wallets from a CSV
-- `create_lp.sh`: Interacts with LP contract once deployed
-
-> All scripts will be released in `/scripts` after testing.
-
-## 🧠 Brand Assets
-
-Located in `/marketing/`:
-- `logo_light.png`
-- `logo_dark.png`
-- `quantari.svg`
-- `favicon.ico`
-- `logo@256.png`, `logo@512.png`, `logo@1024.png`
-
-## 🛡️ Security Notice
-
-Quantari is community-led. There are **no team-held mint keys** or **hidden backdoors**. All code and transactions will be **open-source and auditable**. We encourage the community to review all contracts before participating.
+This project represents a new approach: **community-first, skin-in-the-game**, and radically simple.
 
 ---
 
-**Status:** Mainnet test phase complete. Scripts and contracts being finalized.
+## 🔑 Core Values
+
+- **Fair Mint**  
+  100 million tokens minted in a single transaction. No secret wallets. No team allocation. No VC backers.
+
+- **No Presale / No Airdrop Promises**  
+  No speculation. No dangling carrots. Participation is the only path.
+
+- **Ownership by Action**  
+  No central authority. No promises of future governance. If it matters, build it.
+
+- **No Roadmap Theater**  
+  No "soon." No buzzwords. No vapor. What you see is what exists — and what comes next is up to those who show up.
+
+---
+
+## 🧭 Community-First Ethos
+
+Quantari draws quiet inspiration from the ancient Chinese quants — mathematicians and traders who moved beads on abacuses with intention, clarity, and discipline. In that same spirit, Quantari rejects hype in favor of signal, and leaves control in the hands of those willing to take responsibility.
+
+This isn't just a token — it's a mirror. It reflects the actions of those who hold it.
+
+There are no unlocks. No marketing team. No safety nets.
+
+What happens next is earned, not given.
+
+---
+
+## 🧬 Token Details
+
+- **Name**: Quantari
+- **Symbol**: QNTR
+- **Decimals**: 9
+- **Total Supply**: 100,000,000 QNTR
+- **Mint Address**: [`9bQ4dhCpUm7vsBGt5JC7vhK25hqSa9Dp4TTas7fhuqvt`](https://solscan.io/token/9bQ4dhCpUm7vsBGt5JC7vhK25hqSa9Dp4TTas7fhuqvt)
+
+---
+
+## 🛠️ Status
+
+This repo contains:
+
+- Minting and deployment scripts
+- Brand assets (logos, banners, SVG)
+- Ongoing development of optional community LP and distribution tools
+
+There is no guarantee of future updates. Participation drives progress.
+
+---
+
+## ⚠️ Disclaimers
+
+Quantari is not an investment. There is no team, no roadmap, and no roadmap to a roadmap. This is not a product — it's a starting point.
+
+Use it. Fork it. Ignore it. It’s yours.
