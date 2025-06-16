@@ -1,17 +1,17 @@
 # Quantari (QNTR) — Solana Devnet Token
 
-This repository contains all deployment scripts, configuration files, and logs related to the launch of **Quantari (QNTR)** — a testnet token developed to explore fair-launch models, community trust mechanics, and treasury-managed incentives on Solana.
+This repository contains all deployment scripts, logs, metadata, and branding assets for **Quantari (QNTR)** — a transparent, fair-launch token created on the Solana Devnet.
 
 ---
 
-## 🧬 Token Information
+## 🧬 Token Details
 
-- **Name:** Quantari  
-- **Symbol:** QNTR  
-- **Mint Address:** 6djLsDWhcH8UkE87pB6ZrvYVEBGuNU7imHq7n3nD547N  
-- **Mint Authority:** `88QejiCvjYF4D5pM6qJeZ9zf9eE7SsV3Sfp9BCiKYQpw` *(2-of-3 Multisig)*  
-- **Initial Supply:** 1,000,000 QNTR  
-- **Decimals:** 9  
+- **Token Name:** Quantari
+- **Symbol:** QNTR
+- **Mint Address:** 9bQ4dhCpUm7vsBGt5JC7vhK25hqSa9Dp4TTas7fhuqvt
+- **Mint Authority:** Multisig (2-of-3)
+- **Initial Supply:** 1 QNTR (test mint)
+- **Decimals:** 9
 - **Network:** Solana Devnet  
 
 ---
